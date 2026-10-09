@@ -1,1 +1,0 @@
-# qnngroup.github.io
