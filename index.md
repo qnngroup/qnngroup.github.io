@@ -11,3 +11,5 @@ You can commit and push to a git repository.
 [Comments](https://giscus.app/)
 
 hi from github markdown editor
+
+[Test link to submodule](qnngroup.github.io/djgraham)
