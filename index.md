@@ -12,4 +12,4 @@ You can commit and push to a git repository.
 
 hi from github markdown editor
 
-[Test link to submodule](qnngroup.github.io/djgraham)
+[Test link to submodule](./djgraham/README.md)
